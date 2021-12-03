@@ -1,23 +1,22 @@
 # foss-contrib-policy-template
 
-## Objectives:
+## Objectifs:
 
- * Define a template free/open-source contribution policy that governments can instantiate
- * Increase contributions from civil servants and subcontractors working for governments
- * Help governments interact and work together
- * Propose best practices on engaging with open-source communities and contribute new projects
+  * Définir un modèle de politique de contribution gratuite/open source que les gouvernements peuvent instancier
+  * Augmenter les contributions des fonctionnaires et des sous-traitants travaillant pour les gouvernements
+  * Aider les gouvernements à interagir et à travailler ensemble
+  * Proposer les meilleures pratiques sur l'engagement avec les communautés open source et contribuer à de nouveaux projets
  
-## Context
+## Le contexte
 
-This template policy was drafted for the Open Government Partnership Summit that took place in Paris, December 7-9, 2016.
+Ce modèle de politique a été rédigé pour le Sommet de partenariat pour un gouvernement ouvert qui s'est tenu à Paris du 7 au 9 décembre 2016.
 https://fr.ogpsummit.org/osem/conference/ogp-summit/program/proposal/74
 
-Discussions around this open-source policy are available here:
+Les discussions autour de cette politique open source sont disponibles ici :
 https://forum.etalab.gouv.fr/c/gouvernement-ouvert/FOSS-contrib-policy
 
-Countries member of the OGP (and others) will have the possibility to instantiate this policy template locally to display a strong position for their civil servants.
+Les pays membres de l'OGP (et d'autres) auront la possibilité d'instancier ce modèle de politique localement pour afficher une position forte pour leurs fonctionnaires.
 
-## Contribution policy template
-
+## Modèle de politique de contribution
 The template is available [here](Introduction.md) before finding a proper home
 
