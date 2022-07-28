@@ -146,3 +146,83 @@ ENTITY_NAME’s standard security process should be applied.
 
 Public repositories are archived in a manner accessible to the public when ENTITY_NAME hands over or discontinues a software project.
 
+Modèle de politique open source
+Objectifs
+Les objectifs de PUBLIC_ADMINISTRATION en publiant cette politique sont :
+
+Se conformer à la réglementation
+
+Collaborer entre les administrations publiques nationales et internationales
+
+S'engager avec les communautés existantes
+
+Favoriser la croissance économique
+
+L'objectif de cette politique est de permettre à l'ADMINISTRATION_PUBLIQUE d'adopter le développement de logiciels open source sans compromettre ses intérêts fondamentaux et la sécurité de l'information, en suivant les meilleures pratiques des communautés et dans le respect de toutes les parties prenantes.
+
+Globalement cette politique propose de :
+
+Permettre aux fonctionnaires et aux sous-traitants de contribuer et de publier des projets open source
+
+Partager les meilleures pratiques pour collaborer et interagir avec les communautés
+
+Apporter soutien et assistance
+
+Portée et applicabilité
+Cette politique doit être appliquée par tous les fonctionnaires de l'ADMINISTRATION_PUBLIQUE et les contractants et sous-traitants associés.
+
+Cette politique s'applique uniquement aux œuvres pour lesquelles PUBLIC_ADMINISTRATION détient le droit d'auteur conformément à la loi applicable ou suffisamment de droits fournis par les licences pertinentes. Le document sur les meilleures pratiques fournit des définitions claires et des exemples de ce qui relève de ce champ d'application.
+
+Les entités appartenant à ENTITY_NAME peuvent instancier une version héritée de cette règle.
+
+L'open source du code existant est un autre processus et nécessite des étapes supplémentaires qui sortent du cadre de cette politique. Veuillez vous référer au ENTITY_SUPPORT_EMAIL pour plus d'informations.
+
+Notez que les projets FOSS peuvent inclure de la documentation technique et fonctionnelle, des manuels d'utilisateur, d'administrateur et/ou de programmeur, des exemples, des traductions, des exemples de données, des illustrations et/ou des fichiers de configuration.
+
+Définitions
+« FOSS » fait référence à un « logiciel libre/open source » et est généralement utilisé pour désigner un logiciel qui, soit sous une licence qui a été approuvée par la Free Software Foundation, l'Open Source Initiative, ou une licence qui accorde les quatre droits : d'utiliser le logiciel à quelque fin que ce soit, pour étudier le code source, le partager avec d'autres et améliorer le logiciel. À certains endroits, « l'open source » remplace également la lisibilité. Logiciel libre et logiciel libre sont utilisés comme synonymes dans tout le document.
+
+« Fonctionnaire » : personne employée par une administration publique, soit officiellement assermentée, soit sur la base d'un contrat de travail.
+
+"Licence approuvée par l'OSI :" https://opensource.org/licenses
+
+"Licence approuvée par la Free Software Foundation": https://www.gnu.org/licenses/licenses.en.html
+
+« Système de contrôle de version » : produit ou service logiciel conçu pour stocker et récupérer plusieurs versions du code source et des actifs associés de manière cohérente, pouvant être centralisé, décentralisé ou distribué.
+
+Ouvrir par défaut
+À partir de maintenant, le code développé par ou pour ENTITY_NAME sera gratuit/open source par défaut. Les exigences détaillées suivent, mais à un niveau élevé :
+
+Les entités doivent se développer à l'air libre dans la mesure du possible.
+
+Lors de la publication du code, les agences doivent s'assurer qu'une licence FOSS appropriée est appliquée.
+
+Lors de l'achat du développement du code, les entités doivent s'assurer qu'elles garantissent le droit d'auteur et la livraison du code afin de faciliter sa diffusion en tant que source ouverte.
+
+Participez à la communauté Open Source.
+Dans la mesure du possible, les contributions doivent être apportées à des projets existants plutôt que de créer des efforts indépendants et toutes les contributions doivent être reversées à la communauté.
+
+Comptes
+Les fonctionnaires sont autorisés à associer leur nom à leurs contributions et à être reconnus individuellement, tandis que les droits d'auteur restent la propriété de ENTITY_NAME et sous la licence sélectionnée pour le projet.
+
+Il n'est pas interdit aux fonctionnaires de travailler sur des projets parallèles lorsqu'ils ne sont pas en service, et leurs contributions professionnelles doivent être distinguées des contributions personnelles. Les critères sont donnés dans la section suivante.
+
+Cette distinction doit être faite via l'adresse e-mail utilisée pour soumettre le code :
+
+Les contributions professionnelles doivent être soumises :
+
+avec l'adresse email du gouvernement pour les fonctionnaires
+
+avec l'adresse e-mail de l'entreprise pour les sous-traitants
+
+Les contributions personnelles doivent être soumises avec l'adresse e-mail personnelle.
+
+La contribution par e-mail anonyme / générique doit être évitée : les gestionnaires avec des fonctionnaires qui ne souhaitent pas publier leur code doivent utiliser leur propre adresse e-mail à la place.
+
+En outre, les fonctionnaires dont l'emploi est une information sensible doivent recevoir des identités de couverture pour leur permettre de contribuer aux projets FOSS sans mettre en danger leur sécurité ; De même, les employés des sous-traitants qui ont le droit légal de garder le fait de leur emploi non public et qui souhaitent le faire doivent adopter un pseudonyme pour contribuer aux projets ENTITY_NAME. Dans ces cas, la même identité doit être utilisée par le contributeur pour tous les projets ENTITY_NAME afin de faciliter les communications avec les développeurs externes.
+
+Soutien
+ENTITY_NAME fournira une assistance centralisée pour les cas non couverts par cette politique ou les questions que d'autres personnes pourraient avoir pour mettre en œuvre la politique via ENTITY_SUPPORT_EMAIL.
+
+Contribuer à des projets Open Source existants
+Fonctionnaires et sous-traitants de ENTITY_NAME
