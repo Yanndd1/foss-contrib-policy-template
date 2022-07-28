@@ -4,23 +4,25 @@
 
 PUBLIC_ADMINISTRATION's goals in releasing this policy are:
 
-* Comply with regulations
+Les objectifs de PUBLIC_ADMINISTRATION en publiant cette politique sont :
 
-* Collaborate between national and international public administrations
+* Se conformer à la réglementation
 
-* Engage with existing communities
+* Collaborer entre les administrations publiques nationales et internationales
 
-* Foster economic growth
+* S'engager avec les communautés existantes
 
-The objective of this policy is to allow PUBLIC_ADMINISTRATION to embrace open source software development without compromising its core interests and information security, following the communities’ best practices and in the respect of all stakeholders.
+* Favoriser la croissance économique
 
-Globally this policy proposes to:
+L'objectif de cette politique est de permettre à l'ADMINISTRATION_PUBLIQUE d'adopter le développement de logiciels open source sans compromettre ses intérêts fondamentaux et la sécurité de l'information, en suivant les meilleures pratiques des communautés et dans le respect de toutes les parties prenantes.
 
-1. Allow civil servants and subcontractors to contribute and release open-source projects 
+Globalement cette politique propose de :
 
-2. Share best practices to collaborate and engage with communities
+1. Permettre aux fonctionnaires et aux sous-traitants de contribuer et de publier des projets open source
 
-3. Provide support and assistance
+2. Partager les meilleures pratiques pour collaborer et interagir avec les communautés
+
+3. Apporter soutien et assistance
 
 ## Scope and applicability
 
@@ -148,25 +150,7 @@ Public repositories are archived in a manner accessible to the public when ENTIT
 
 Modèle de politique open source
 Objectifs
-Les objectifs de PUBLIC_ADMINISTRATION en publiant cette politique sont :
 
-Se conformer à la réglementation
-
-Collaborer entre les administrations publiques nationales et internationales
-
-S'engager avec les communautés existantes
-
-Favoriser la croissance économique
-
-L'objectif de cette politique est de permettre à l'ADMINISTRATION_PUBLIQUE d'adopter le développement de logiciels open source sans compromettre ses intérêts fondamentaux et la sécurité de l'information, en suivant les meilleures pratiques des communautés et dans le respect de toutes les parties prenantes.
-
-Globalement cette politique propose de :
-
-Permettre aux fonctionnaires et aux sous-traitants de contribuer et de publier des projets open source
-
-Partager les meilleures pratiques pour collaborer et interagir avec les communautés
-
-Apporter soutien et assistance
 
 Portée et applicabilité
 Cette politique doit être appliquée par tous les fonctionnaires de l'ADMINISTRATION_PUBLIQUE et les contractants et sous-traitants associés.
