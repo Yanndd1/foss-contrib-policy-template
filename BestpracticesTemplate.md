@@ -199,6 +199,7 @@ Projects should consider code scanning tools such as:
 
 * [http://www.binaryanalysis.org/](http://www.binaryanalysis.org/) 
 
+* [https://gitlab.com/hermine-project/hermine](https://gitlab.com/hermine-project/hermine)
 ### Community management
 
 *Due to the nature of open development model, people outside ENTITY_NAME may want to submit bug reports and/or enhancements. To encourage the participation by other public administrations or other external contributors be prepared to answer general support questions and make sure there is a clear communication about the minimum requirements to accept contributions.*
